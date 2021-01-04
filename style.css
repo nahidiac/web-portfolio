@@ -13,6 +13,10 @@ p{
     color: dimgray;
 }
 
+section{
+    height: 800px;
+}
+
 .name-highlight{
     color: #FFA500;
 }
@@ -33,10 +37,6 @@ p{
     background-repeat: no-repeat;
 }
 
-section{
-    height: 500px;
-}
-
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(45deg, lightsalmon, tomato);
@@ -51,4 +51,9 @@ section{
     background-image: url("images/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.bottom-banner{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
 }
