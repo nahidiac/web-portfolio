@@ -6,6 +6,13 @@ h1{
     font-size: 50px;
 }
 
+h2{
+    font-size: 40px;
+}
+p{
+    color: dimgray;
+}
+
 .name-highlight{
     color: #FFA500;
 }
@@ -38,4 +45,10 @@ section{
     border-radius: 10px;
     font-weight: bold;
     color: white;
+}
+
+.mid-banner{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
 }
