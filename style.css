@@ -56,4 +56,30 @@ section{
 .bottom-banner{
     background-image: url("images/exp-bg.png");
     background-repeat: no-repeat;
+    height: 700px;
+    background-position: left;
+}
+
+footer p{
+    text-align: center;
+}
+
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    height: 400px;
+}
+
+#full-stack{
+    
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+    background-color: white;
+}
+
+#baby-dev{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
 }
